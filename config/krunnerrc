@@ -1,0 +1,41 @@
+[General]
+FreeFloating=true
+HistoryEnabled=false
+RetainPriorSearch=false
+history=gtk,syste,nitr,firef,fire,sett,latte,yak,script,short,autosta,ko
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_applications:kcm_keys.desktop,2 services_applications:org.kde.kcalc.desktop,1 shell_rofi -show run,2 services_applications:pcmanfm-qt.desktop,1 services_applications:megasync.desktop,2 services_applications:kitty.desktop,1 shell_date,2 shell_fire,3 services_applications:com.github.junrrein.PDFSlicer.desktop,1 services_applications:kcmsmserver.desktop,15 services_applications:spotify-adblock.desktop,5 services_applications:urxvt.desktop,1 org.kde.windowedwidgets_org.kde.plasma.mediacontroller,1 services_applications:org.kde.konsole.desktop,2 shell_steam,2 services_applications:pcmanfm.desktop,3 services_applications:Ripcord.desktop,1 services_applications:compton.desktop,6 services_applications:pavucontrol.desktop,3 services_applications:org.kde.spectacle.desktop,1 services_applications:gimp.desktop,1 services_applications:org.kde.kmix.desktop,53 services_applications:firefox.desktop,2 services_applications:balena-etcher-electron.desktop,2 services_applications:org.kde.yakuake.desktop,1 services_applications:org.kde.latte-dock.desktop,1 services_applications:net.lutris.Lutris.desktop,1 shell_killall pcmanfm,42 services_applications:systemsettings.desktop,1 services_applications:org.kde.kdeconnect.app.desktop,2 Spell Checker,3 services_applications:albert.desktop,1 services_applications:acroread.desktop,2 services_applications:spellchecking.desktop,2 services_applications:minecraft-launcher.desktop,1 services_applications:com.obsproject.Studio.desktop,2 Spell Checker_crucial,9 services_applications:libreoffice-writer.desktop,1 services_applications:org.gnome.Evince.desktop,1 services_applications:steam.desktop,1 services_applications:kwinscripts.desktop,1 services_applications:autostart.desktop,1 shell_dmenu,11 services_applications:org.kde.dolphin.desktop,11 services_applications:nitrogen.desktop,1 services_applications:code-oss.desktop,2 services_applications:qdbusviewer.desktop,1 shell_nitrogen --restore,19 services_applications:discord.desktop,1 services_applications:eu.scarpetta.PDFMixTool.desktop,6 services_applications:libreoffice-startcenter.desktop,1 shell_echo $SHELL,1 services_applications:org.gnome.MultiWriter.desktop,2 services_applications:gparted.desktop
+
+[Plugins]
+CharacterRunnerEnabled=true
+DictionaryEnabled=true
+Kill RunnerEnabled=true
+PowerDevilEnabled=true
+Spell CheckerEnabled=true
+baloosearchEnabled=false
+bookmarksEnabled=true
+browsertabsEnabled=true
+calculatorEnabled=true
+desktopsessionsEnabled=false
+katesessionsEnabled=false
+konsoleprofilesEnabled=false
+krunner_appstreamEnabled=false
+kwinEnabled=true
+locationsEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=true
+org.kde.windowedwidgetsEnabled=true
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=true
+webshortcutsEnabled=true
+windowsEnabled=true
+
+[Runners][Kill Runner]
+sorting=0
+triggerWord=kkill
+useTriggerWord=true

@@ -1,0 +1,14 @@
+# GIMP action-history
+
+(history-item "edit-copy" 0)
+(history-item "edit-paste-as-new-image" 0)
+(history-item "image-crop-to-content" 0)
+(history-item "file-export-as" 1)
+(history-item "file-open" 0)
+(history-item "tools-by-color-select-short" 0)
+(history-item "dialogs-preferences" 0)
+(history-item "plug-in-unit-editor" 0)
+(history-item "select-none" 0)
+(history-item "file-close-all" 1)
+
+# end of action-history

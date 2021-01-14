@@ -1,0 +1,27 @@
+[Appearance]
+Skin=breeze-minimal
+SkinInstalledWithKns=true
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=std.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+eDP-1 Height 768=494
+eDP-1 Width 1366=700
+
+[Favorite Profiles]
+Favorites=
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[Shortcuts]
+options_configure=none
+
+[Window]
+KeepOpen=false
+ShowSystrayIcon=false
