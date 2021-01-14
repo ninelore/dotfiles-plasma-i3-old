@@ -1,12 +1,7 @@
 # ninelore's dotfiles
-My Plasma i3 dotfiles
-
-
-## To-Do
-* everithing WIP and Subject to change
+My old Plasma i3 dotfiles
 
 ## Installation
-**I recommend using the yay pacman/AUR wrapper.**
 The root of the repo resembles $HOME (you need to add the dot to everything in the repo root)
 
 ## Credits
