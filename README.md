@@ -1,5 +1,5 @@
-# ninelore's dotfiles
-My old Plasma i3 dotfiles
+# ninelore's dotfiles (DEPRECATED!!!)
+My old Plasma i3 dotfiles (Archive)
 
 ## Installation
 The root of the repo resembles $HOME (you need to add the dot to everything in the repo root)
